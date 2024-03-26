@@ -36,8 +36,8 @@ public class AudioRedorder : MonoBehaviour
 
     private void Awake()
     {
-        Screen.SetResolution(1366, 768, true);
-        //Screen.SetResolution(3840, 2160, true);
+        //Screen.SetResolution(1366, 768, true);
+        Screen.SetResolution(3840, 2160, true);
     }
 
     void Start()

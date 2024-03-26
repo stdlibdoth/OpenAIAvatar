@@ -38889,7 +38889,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: feacd78e43ceba949bb4a9248b403f6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openAIKey: 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
+  openAIKey: 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
   model: 0
 --- !u!82 &1931775158
 AudioSource:
